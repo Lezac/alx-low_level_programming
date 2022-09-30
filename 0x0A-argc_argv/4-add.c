@@ -1,38 +1,3 @@
-Menu 
-H
-holbertonschool-low_level_programming
-Project information
-Repository
-Files
-Commits
-Branches
-Tags
-Contributors
-Graph
-Compare
-Issues
-0
-Merge requests
-0
-CI/CD
-Deployments
-Packages and registries
-Monitor
-Analytics
-Wiki
-Snippets
-
-Close sidebar
-Open sidebar
-Luis Chaparro
-holbertonschool-low_level_programming
-Repository
-master
-holbertonschool-low_level_programming
-0x0A-argc_argv
-4-add.c
-4-add.c
-509 bytes
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
