@@ -10,6 +10,7 @@ char *_strdup(char *str)
 {
 	char *strout;
 	unsigned int i, j;
+
 	if (str == NULL)
 		return (NULL);
 	for (i = 0; str[i] != '\0'; i++)
@@ -20,3 +21,4 @@ char *_strdup(char *str)
 	for (j = 0; j <= i; j++)
 		strout[j] = str[j];
 	return (strout);
+}
