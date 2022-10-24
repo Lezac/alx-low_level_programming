@@ -1,6 +1,6 @@
 # Low-level programming & Algorithm
 
-Module of **Low-level programming** and **algorithm**, carried out during **Software Engineering studies** at **[ALX]**.
+Module of **Low-level programming** and **algorithm**, carried out during **Software Engineering studies** at **ALX**.
 
 ## Projects
 All of the following folders are projects done during the studies:
