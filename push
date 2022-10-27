@@ -1,4 +1,4 @@
 #!/bin/bash
-git add 0x13-more_singly_linked_lists
-git commit -m "update"
+git add .
+git commit -m "Progress"
 git push
